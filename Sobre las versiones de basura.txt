@@ -1,0 +1,11 @@
+basura1
+Versión inicial, apoyos en el cubo fijos en su lado derecho.
+
+basura2
+Apoyos fijos en el cubo variables en el eje x.
+
+basura3
+Apoyos fijos en el cubo variables en el eje x y su altura en el eje y.
+
+basura4
+Apoyos en el cubo en cualquier punto.

@@ -1,0 +1,8 @@
+# Matlab autosave files 
+*.asv
+
+# results folder
+Resultados/
+
+# zip files
+*.zip
